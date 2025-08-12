@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IBM8Aug25_CSharpIntro.DelegateEgConsumer</StartupObject>
+    <StartupObject>IBM8Aug25_CSharpIntro.CollectionsEg</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CollectionsEg.cs" />
     <Compile Include="DelegateEg.cs" />
+    <Compile Include="GenericEg.cs" />
     <Compile Include="OOPEg.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
