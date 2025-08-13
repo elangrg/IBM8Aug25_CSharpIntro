@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IBM8Aug25_CSharpIntro.CollectionsEg</StartupObject>
+    <StartupObject>IBM8Aug25_CSharpIntro.LTI_AT_Eg</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="CollectionsEg.cs" />
     <Compile Include="DelegateEg.cs" />
     <Compile Include="GenericEg.cs" />
+    <Compile Include="LTI_AT_Eg.cs" />
     <Compile Include="OOPEg.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
