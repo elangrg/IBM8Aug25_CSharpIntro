@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IBM8Aug25_CSharpIntro;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,23 +16,31 @@ using System.Threading.Tasks;
             Console.WriteLine( "Hello World!");
             Console.ReadKey();
 
+
+        #region Demo 
+
         int i = 100;
 
         long l = i;
 
-        short s = (short) i;
+        short s = (short)i;
 
         string st = "1000";
 
-        int k  =  int.Parse(  st)  ;
+        int k = int.Parse(st);
 
-        st = i.ToString();
+        st = i.ToString(); 
+        #endregion
+
 
 
         object o = i; // 
 
         int m = (int) o; // ub
 
+
+        Dept obj = new Dept();
+        
 
         }
     }

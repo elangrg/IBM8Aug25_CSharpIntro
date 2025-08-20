@@ -37,6 +37,9 @@ namespace IBM8Aug25_CSharpIntro
             Console.WriteLine(obj2.GetType());
             Console.WriteLine(obj3.GetType());
 
+            d = 23;
+
+            
 
 
         }

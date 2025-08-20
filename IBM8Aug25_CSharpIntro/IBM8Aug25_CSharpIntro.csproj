@@ -48,9 +48,12 @@
   <ItemGroup>
     <Compile Include="CollectionsEg.cs" />
     <Compile Include="DelegateEg.cs" />
+    <Compile Include="ExtensionMethodEg.cs" />
     <Compile Include="GenericEg.cs" />
     <Compile Include="LTI_AT_Eg.cs" />
     <Compile Include="OOPEg.cs" />
+    <Compile Include="PartialPart1.cs" />
+    <Compile Include="PartialPart2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
